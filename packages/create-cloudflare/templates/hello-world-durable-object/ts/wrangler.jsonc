@@ -1,7 +1,7 @@
 {
-  "name": "<TBD>",
+  "name": "new-worker",
   "main": "src/index.ts",
-  "compatibility_date": "<TBD>",
+  "compatibility_date": "2025-01-01",
   "migrations": [
     {
       "new_sqlite_classes": [
